@@ -1,4 +1,4 @@
 <?php
-echo "My HostName olfa bensalem pfe: " . gethostname(); 
+echo "My HostName olfa bensalem pfe rfc: " . gethostname(); 
 echo "\n"
 ?>
